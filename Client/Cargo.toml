@@ -1,0 +1,6 @@
+[package]
+name = "Client"
+version = "0.1.0"
+authors = ["Darius Wattimena <dariuswattimena@hotmail.com>"]
+
+[dependencies]
